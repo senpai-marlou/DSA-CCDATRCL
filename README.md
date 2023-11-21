@@ -1,2 +1,1 @@
-# DSA-CCDATRCL
-Data Structures and Algorithms
+# DATA STRUCTURES AND ALGORITHMS (CCDATRCL)
